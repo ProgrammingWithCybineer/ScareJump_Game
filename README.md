@@ -17,7 +17,3 @@ Scary pop up choice based game. Your decisions determine whether you survive or 
 ### Current Features
 
 ### Future Features
-
-```bash
-git clone <repo-url>
-```
